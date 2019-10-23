@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Just a simple 4 main lifecycle rundown. 
+Please check the console to see how lifecycles are run. 
+It covers: 
+1) constructor
+2) render
+3) component did mount
+4) component did update
+-------------------------------
+extras --
+5) component will unmount
+6) Child Component <Timer /> 
+
 ## Available Scripts
 
 In the project directory, you can run:
